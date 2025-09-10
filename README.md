@@ -6,7 +6,6 @@ A powerful Android application that enables voice control of Android tablets thr
 
 - **Voice Recognition**: Wake word activation with "Weight" followed by directional commands
 - **Wireless ADB Integration**: Connects to Android tablets over Wi-Fi without USB cables
-- **AI Assistant Audio**: Pleasant confirmation tones similar to Google Assistant/Alexa
 - **Real-time Debug Logging**: Monitor voice recognition and connection status
 - **Dark Theme Support**: Automatically adapts to system theme
 - **Toggleable Audio Feedback**: Enable/disable confirmation sounds on demand
